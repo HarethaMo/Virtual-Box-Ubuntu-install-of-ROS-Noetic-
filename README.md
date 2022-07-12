@@ -20,7 +20,7 @@ Start VirtualBox, then hit the **NEW** button, fill in your machine name, type a
 
 ![Ubuntu#1](https://user-images.githubusercontent.com/98822141/178610816-f41165b2-b8e7-4b20-a305-7c51da278aca.png)
 
-The Next Few pages will have set up the specifications for new virtual machine. follow the images below: 
+The Next Few pages will have set up the specifications for your new virtual machine. follow the images below: 
 
 ![Ubuntu#2](https://user-images.githubusercontent.com/98822141/178611715-dc037f35-e7b8-4272-9cae-9d8ab34ebfab.png)
 
@@ -31,3 +31,5 @@ The Next Few pages will have set up the specifications for new virtual machine. 
 ![ubuntu#5](https://user-images.githubusercontent.com/98822141/178611753-475d1d84-7841-40c9-b426-84b5847e5710.png)
 
 ![ubuntu#6](https://user-images.githubusercontent.com/98822141/178611766-680e6f0c-637e-4c17-b74f-e4588743da3e.png)
+
+After you are done click on create, now your virtual machine should appear on your VirtualBox manager, select it and click on settings to customize and setting up your machine before launching it.
